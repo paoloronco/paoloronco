@@ -39,6 +39,7 @@ I am motivated to acquire new skills and aspire to work in a dynamic environment
   - [Networking Fundamentals in Google Cloud](https://www.paoloronco.it/DOCS/Certificati/12a%20-%20Google%20Cloud%20Skill%20Boost%20-%20Networking%20Fundamentals%20in%20Google%20Cloud.png)
   - [Baseline Infrastructure](https://www.paoloronco.it/DOCS/Certificati/13a%20-%20Google%20Cloud%20Skill%20Boost%20-%20Baseline%20Infrastructure.png)
   - [Google Cloud Essentials](https://www.paoloronco.it/DOCS/Certificati/14a%20-%20Google%20Cloud%20Skill%20Boost%20-%20Google%20Cloud%20Essentials.png)
+- [AWS Knowledge Cloud Essentials](https://www.paoloronco.it/DOCS/Certificati/15%20AWS%20CAWS%20Knowledge%20Cloud%20Essentials.pdf)
 - [AnPal Crescere in Digitale](https://drive.google.com/file/d/1jKziJBAHiqM63flePXhiBHWZtYOJbhjY/view)
 - [Attestato di formazione sicurezza sul lavoro 2021](https://www.paoloronco.it/DOCS/Certificati/16%20-%20certificato%20Corso%20Crescere%20in%20digitale.pdf)
 
