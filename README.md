@@ -21,38 +21,55 @@ Profile README for paoloronco
 - 🌍 Discover more about me → **https://paoloronco.it**
 
 ---
-
 ## 🎓 Certifications
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="120" /><br/>
-      <sub><b>CompTIA Security+</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="120" /><br/>
-      <sub><b>CompTIA AI Essentials</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="120" /><br/>
-      <sub><b>Google Cybersecurity<br/>Professional Certificate</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?..." width="120" /><br/>
-      <sub><b>Google Cloud<br/>Gen AI Leader</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="URL_AWS" width="120" /><br/>
-      <sub><b>AWS Knowledge:<br/>Cloud Essentials</b></sub>
-    </td>
-    <td align="center">
-      <img src="URL_INTEL_
+<div align="center">
 
+  <!-- CompTIA Security+ -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>CompTIA Security+</b></div>
+  </div>
+
+  <!-- CompTIA AI Essentials -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>CompTIA AI Essentials</b></div>
+  </div>
+
+  <!-- Google Cybersecurity Professional Certificate -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>Google Cybersecurity<br/>Professional Certificate</b></div>
+  </div>
+
+  <!-- Google Cloud Gen AI Leader -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>Google Cloud<br/>Generative AI Leader</b></div>
+  </div>
+
+  <!-- AWS Knowledge: Cloud Essentials -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="URL_AWS_CERT_IMAGE" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>AWS Knowledge:<br/>Cloud Essentials</b></div>
+  </div>
+
+  <!-- Intel Network Academy -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="URL_INTEL_CERT_IMAGE" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>Intel Network Academy<br/>Network Transformation 101</b></div>
+  </div>
+
+  <!-- Google IT Support -->
+  <div style="display: inline-block; text-align: center; margin: 12px;">
+    <img src="URL_GOOGLE_IT_SUPPORT_IMAGE" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;"><b>Google IT Support<br/>Tech Support Fundamentals</b></div>
+  </div>
+
+</div>
+
+<p align="center"><i>…more certifications coming</i></p>
 
 ---
 
