@@ -20,32 +20,39 @@ Profile README for paoloronco
 - ⚡ I love exploring new technologies and transforming ideas into real solutions  
 - 🌍 Discover more about me → **https://paoloronco.it**
 
+---
+
 ## 🎓 Certifications
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="120" /><br/>
+      <sub><b>CompTIA Security+</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="120" /><br/>
+      <sub><b>CompTIA AI Essentials</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="120" /><br/>
+      <sub><b>Google Cybersecurity<br/>Professional Certificate</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?..." width="120" /><br/>
+      <sub><b>Google Cloud<br/>Gen AI Leader</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="URL_AWS" width="120" /><br/>
+      <sub><b>AWS Knowledge:<br/>Cloud Essentials</b></sub>
+    </td>
+    <td align="center">
+      <img src="URL_INTEL_
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="110" />
-    <div style="font-size: 12px; margin-top: 4px;">CompTIA Security+</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="100" />
-    <div style="font-size: 12px; margin-top: 4px;">Google Cybersecurity</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="100" />
-    <div style="font-size: 12px; margin-top: 4px;">CompTIA AI Essentials</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="105" />
-    <div style="font-size: 12px; margin-top: 4px;">Google Cloud GenAI Leader</div>
-  </div>
-</p>
-
-<p align="left"><i>…more certifications coming</i></p>
 
 ---
 
@@ -89,16 +96,24 @@ Profile README for paoloronco
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&theme=neon" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=paoloronco&theme=neon" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="160"
+    src="https://streak-stats.demolab.com?user=paoloronco&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&theme=neon" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
