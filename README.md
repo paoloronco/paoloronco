@@ -25,23 +25,33 @@ Profile README for paoloronco
 <p align="center">
 
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="110" />
     <div style="font-size: 12px; margin-top: 4px;">CompTIA Security+</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="105" />
+    <div style="font-size: 12px; margin-top: 4px;">Google CyberSecurity</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="105" />
+    <div style="font-size: 12px; margin-top: 4px;">CISCO NetACAD CyberSecurity</div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="100" />
-    <div style="font-size: 12px; margin-top: 4px;">Google Cybersecurity</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="100" />
     <div style="font-size: 12px; margin-top: 4px;">CompTIA AI Essentials</div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="105" />
+    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="100" />
     <div style="font-size: 12px; margin-top: 4px;">Google Cloud GenAI Leader</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="105" />
+    <div style="font-size: 12px; margin-top: 4px;">AWS Cloud Essentials</div>
   </div>
 </p>
 
