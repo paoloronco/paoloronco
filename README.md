@@ -62,26 +62,24 @@ RAG · Qdrant · MongoDB Atlas · OpenAI · Gemini · Cohere · Voyage AI · loc
 
 ### Google Cloud
 
-- **Associate Cloud Engineer**
-- **Generative AI Leader**
-- Cloud Digital Leader learning path
-- Professional Cloud Architect preparation
-- Google Cloud Security and hands-on Skills Boost labs
+- Associate Cloud Engineer
+- Generative AI Leader
+- Digital Leader
 
 ### Cyber Security
 
-- **CompTIA Security+**
-- **Google Cybersecurity Professional Certificate**
+- CompTIA Security+**
+- Google Cybersecurity Professional Certificate
 - Splunk Core Certified User
-- Cisco Networking Academy Cybersecurity training
+- Cisco Networking Academy
 - EC-Council Ethical Hacking Essentials
 
 ### AI, Cloud & IT
 
-- **CompTIA AI Essentials**
+- CompTIA AI Essentials
 - AWS Cloud Essentials
 - Google IT Support Professional Certificate
-- Intel AI and technical learning programs
+- Intel Network Academy
 
 ## GitHub activity
 
