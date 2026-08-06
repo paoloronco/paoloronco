@@ -1,116 +1,73 @@
-<!--
-Profile README for paoloronco
--->
+<div align="center">
+  <a href="https://paoloronco.it">
+    <img src="https://raw.githubusercontent.com/paoloronco/paoloronco.github.io/refresh-profile-2026/assets/paolo-ronco-mark.svg" width="112" alt="Paolo Ronco logo" />
+  </a>
 
-<h1 align="center">👋 Hi, I'm <strong>Paolo Ronco</strong></h1>
-<h3 align="center">🔐 Cybersecurity, Cloud Security & AI Enthusiast | 🧑‍💻 Tech Explorer</h3>
+  <h1>Paolo Ronco</h1>
+  <p><strong>Cyber Security Analyst · Cloud Security · AI & Automation</strong></p>
+  <p>I build practical, security-focused tools and cloud-native experiments.</p>
 
-<p align="center">
-  <a href="https://github.com/paoloronco"><img src="https://img.shields.io/badge/GitHub-paoloronco-181717?style=flat-square&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-Paolo%20Ronco-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-info@paoloronco.it-EA4335?style=flat-square&logo=gmail" /></a>
-  <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-paoloronco.it-000000?style=flat-square&logo=googlechrome" /></a>
-</p>
+  <p>
+    <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-paoloronco.it-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-Contact-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
----
+## About
 
-## 🧑‍💻 About Me  
-- 🔐 I’m deeply passionate about **Cybersecurity** , **Cloud Security** & **AI**  
-- 📂 On GitHub I share **useful tools, experiments and personal projects**  
-- ⚡ I love exploring new technologies and transforming ideas into real solutions  
-- 🌍 Discover more about me → **https://paoloronco.it**
+I work in **Cyber Security**, with a focus on **enterprise cloud and AI security**. Outside my day-to-day role, I design and maintain open-source projects, cloud applications, automations and homelab infrastructure.
 
-## 🎓 Certifications
+My main interests are:
 
-<p align="center">
+- cloud and platform security across Google Cloud, AWS and hybrid environments;
+- Zero Trust, security monitoring, vulnerability management and DevSecOps;
+- AI-assisted workflows, RAG systems and practical automation with n8n;
+- reliable self-hosted infrastructure, containers, observability and disaster recovery.
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="110" />
-    <div style="font-size: 12px; margin-top: 4px;">CompTIA Security+</div>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="105" />
-    <div style="font-size: 12px; margin-top: 4px;">Google CyberSecurity</div>
-  </div>
+## Selected projects
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="105" />
-    <div style="font-size: 12px; margin-top: 4px;">CISCO NetACAD CyberSecurity</div>
-  </div>
+| Project | What it does | Stack |
+|---|---|---|
+| [Lynx](https://github.com/paoloronco/Lynx) | Open-source link manager with authentication, privacy controls and a cloud deployment workflow. | React, Node.js, SQLite, Docker, Cloud Run |
+| [Tab Session Saver](https://tabsessionsaver.paoloronco.it) | Browser extension for saving and restoring organized browsing sessions. | JavaScript, Browser APIs |
+| [NextPrep Academy](https://nextprep.academy) | Structured, outcome-focused learning paths for cloud certifications. | Vercel, web analytics, content automation |
+| [OrbitPage](https://orbitpage.com) | A block-based platform for creating and publishing complete single-page digital presences. | SaaS, web platform, automation |
+| [paoloronco.it](https://paoloronco.it) | Personal knowledge hub covering cloud, cybersecurity, AI and technical projects. | WordPress, Cloudflare, Docker, GCP DR |
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="100" />
-    <div style="font-size: 12px; margin-top: 4px;">CompTIA AI Essentials</div>
-  </div>
+## Current focus
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="100" />
-    <div style="font-size: 12px; margin-top: 4px;">Google Cloud GenAI Leader</div>
-  </div>
+- Building security-focused OSS that stays useful without requiring enterprise-scale infrastructure.
+- Preparing for advanced Google Cloud architecture and security certifications.
+- Improving AI-assisted knowledge retrieval and automation workflows.
+- Evolving resilient backup, monitoring and disaster-recovery patterns in my homelab.
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="105" />
-    <div style="font-size: 12px; margin-top: 4px;">AWS Cloud Essentials</div>
-  </div>
-</p>
+## Core toolkit
 
-<p align="left"><i>…more certifications coming</i></p>
+**Security:** Wiz · Splunk · Google Security Command Center · Cloudflare Zero Trust · Wazuh · CrowdStrike · SentinelOne
 
----
+**Cloud & infrastructure:** Google Cloud · AWS · Proxmox · Docker · Linux · Cloudflare · Vercel
 
-## 🚀 Tech Stack & Tools
+**Development & automation:** GitHub Actions · n8n · Node.js · TypeScript · JavaScript · React · WordPress · Bash
 
-### ☁️ Cloud & Virtualization
-<p align="left">
+## Certifications
 
-  <!-- PRIORITY -->
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=googlecloud,aws,cloudflare,firebase" />  
-  <br>
-  <!-- CONTAINERS -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,kali,redhat,windows" />   
-</p>
+- CompTIA Security+
+- Google Cloud Associate Cloud Engineer
+- Google Cloud Generative AI Leader
+- Google Cybersecurity Professional Certificate
+- CompTIA AI Essentials
+- Cisco Networking Academy Cybersecurity training
+
+## GitHub activity
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&hide_border=true&theme=transparent" alt="Paolo's GitHub statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
 
 ---
 
-### 🔧 Development & Automation  
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-F56A2A?style=for-the-badge&logo=n8n&logoColor=white" /> 
-  <br>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vercel,supabase,wordpress,vscode" />  
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm" />
-</p>
-
----
-
-### 🔐 Security Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Wiz-5A67D8?style=for-the-badge&logo=wiz&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-F43030?style=for-the-badge&logo=crowdstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/SentinelOne-5C2D91?style=for-the-badge&logo=sentinelone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetWitness-0A5DB0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20SCC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&theme=neon" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=paoloronco&theme=neon" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&theme=neon" />
-</p>
-
----
-<h2 align="center">✨ Thank you for visiting my profile</h2>
-<h3 align="center">If you enjoyed my work, feel free to connect!</h3>
+<div align="center">
+  <sub>Explore the full profile, articles and project notes at <a href="https://paoloronco.it">paoloronco.it</a>.</sub>
+</div>
