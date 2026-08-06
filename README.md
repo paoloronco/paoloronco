@@ -1,73 +1,97 @@
 <div align="center">
   <a href="https://paoloronco.it">
-    <img src="https://raw.githubusercontent.com/paoloronco/paoloronco.github.io/refresh-profile-2026/assets/paolo-ronco-mark.svg" width="112" alt="Paolo Ronco logo" />
+    <img src="https://avatars.githubusercontent.com/u/99389280?v=4" width="180" alt="Paolo Ronco" style="border-radius:50%" />
   </a>
 
   <h1>Paolo Ronco</h1>
-  <p><strong>Cyber Security Analyst · Cloud Security · AI & Automation</strong></p>
-  <p>I build practical, security-focused tools and cloud-native experiments.</p>
+  <p><strong>Cyber Security Analyst @ Deloitte</strong></p>
+  <p>Cloud Security · AI · DevSecOps · Automation · Open Source</p>
 
   <p>
-    <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-paoloronco.it-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-Contact-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-paoloronco.it-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-Paolo_Ronco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
-## About
+## About me
 
-I work in **Cyber Security**, with a focus on **enterprise cloud and AI security**. Outside my day-to-day role, I design and maintain open-source projects, cloud applications, automations and homelab infrastructure.
+I work in **Enterprise Cloud & AI Security**, with a focus on practical security, cloud platforms and automation.
 
-My main interests are:
+Outside my professional role, I build and maintain SaaS products, browser extensions, cloud-native applications, AI-assisted workflows and a self-hosted homelab used for experimentation, monitoring and disaster-recovery testing.
 
-- cloud and platform security across Google Cloud, AWS and hybrid environments;
-- Zero Trust, security monitoring, vulnerability management and DevSecOps;
-- AI-assisted workflows, RAG systems and practical automation with n8n;
-- reliable self-hosted infrastructure, containers, observability and disaster recovery.
+My main interests include:
 
-## Selected projects
+- Cloud Security and DevSecOps across Google Cloud, AWS and hybrid environments;
+- AI Security, RAG systems, LLM workflows and security automation;
+- Zero Trust, vulnerability management, SIEM and cloud-native security controls;
+- Docker, Linux, Proxmox, GitHub Actions, n8n and resilient infrastructure.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Lynx](https://github.com/paoloronco/Lynx) | Open-source link manager with authentication, privacy controls and a cloud deployment workflow. | React, Node.js, SQLite, Docker, Cloud Run |
-| [Tab Session Saver](https://tabsessionsaver.paoloronco.it) | Browser extension for saving and restoring organized browsing sessions. | JavaScript, Browser APIs |
-| [NextPrep Academy](https://nextprep.academy) | Structured, outcome-focused learning paths for cloud certifications. | Vercel, web analytics, content automation |
-| [OrbitPage](https://orbitpage.com) | A block-based platform for creating and publishing complete single-page digital presences. | SaaS, web platform, automation |
-| [paoloronco.it](https://paoloronco.it) | Personal knowledge hub covering cloud, cybersecurity, AI and technical projects. | WordPress, Cloudflare, Docker, GCP DR |
+## Featured projects
 
-## Current focus
+| Project | Description |
+|---|---|
+| **[OrbitPage](https://orbitpage.com)** | Platform for creating, customizing and publishing complete single-page digital presences through a visual block editor. |
+| **[NextPrep Academy](https://nextprep.academy)** | Structured and outcome-focused learning paths for Google Cloud and AI certifications. |
+| **[Tab Session Saver](https://tabsessionsaver.paoloronco.it)** | Browser extension for saving, organizing and restoring complex browsing sessions. |
+| **[paoloronco.it](https://paoloronco.it)** | Personal knowledge hub covering Cyber Security, Cloud, AI, homelab and technical projects. |
+| **[n8n Templates](https://github.com/paoloronco?tab=repositories)** | Practical automations for content, backups, AI workflows, notifications and cloud operations. |
 
-- Building security-focused OSS that stays useful without requiring enterprise-scale infrastructure.
-- Preparing for advanced Google Cloud architecture and security certifications.
-- Improving AI-assisted knowledge retrieval and automation workflows.
-- Evolving resilient backup, monitoring and disaster-recovery patterns in my homelab.
+## Currently building
+
+- **OrbitPage** — product, editor, publishing workflows and lead-generation automation.
+- **NextPrep Academy** — Google Cloud certification content and learning experience.
+- **AI and RAG workflows** — retrieval, reranking, automation and practical knowledge assistants.
+- **Homelab and disaster recovery** — Proxmox, Docker, Cloudflare, Google Cloud, Oracle Cloud and off-site backups.
 
 ## Core toolkit
 
-**Security:** Wiz · Splunk · Google Security Command Center · Cloudflare Zero Trust · Wazuh · CrowdStrike · SentinelOne
+**Security**  
+Wiz · Splunk · Google Security Command Center · Cloudflare Zero Trust · Wazuh · CrowdStrike · SentinelOne · NetWitness
 
-**Cloud & infrastructure:** Google Cloud · AWS · Proxmox · Docker · Linux · Cloudflare · Vercel
+**Cloud & infrastructure**  
+Google Cloud · AWS · Proxmox · Docker · Linux · Ubuntu · Cloudflare · Vercel · Oracle Cloud
 
-**Development & automation:** GitHub Actions · n8n · Node.js · TypeScript · JavaScript · React · WordPress · Bash
+**Development & automation**  
+GitHub Actions · n8n · Node.js · TypeScript · JavaScript · React · Bash · WordPress · Supabase
 
-## Certifications
+**AI**  
+RAG · Qdrant · MongoDB Atlas · OpenAI · Gemini · Cohere · Voyage AI · local LLM experimentation
 
-- CompTIA Security+
-- Google Cloud Associate Cloud Engineer
-- Google Cloud Generative AI Leader
-- Google Cybersecurity Professional Certificate
-- CompTIA AI Essentials
+## Certifications & training
+
+### Google Cloud
+
+- **Associate Cloud Engineer**
+- **Generative AI Leader**
+- Cloud Digital Leader learning path
+- Professional Cloud Architect preparation
+- Google Cloud Security and hands-on Skills Boost labs
+
+### Cyber Security
+
+- **CompTIA Security+**
+- **Google Cybersecurity Professional Certificate**
+- Splunk Core Certified User
 - Cisco Networking Academy Cybersecurity training
+- EC-Council Ethical Hacking Essentials
+
+### AI, Cloud & IT
+
+- **CompTIA AI Essentials**
+- AWS Cloud Essentials
+- Google IT Support Professional Certificate
+- Intel AI and technical learning programs
 
 ## GitHub activity
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&hide_border=true&theme=transparent" alt="Paolo's GitHub statistics" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&hide_border=true&theme=transparent" alt="Paolo Ronco GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Explore the full profile, articles and project notes at <a href="https://paoloronco.it">paoloronco.it</a>.</sub>
+  <sub>More projects, articles and technical notes at <a href="https://paoloronco.it">paoloronco.it</a>.</sub>
 </div>
