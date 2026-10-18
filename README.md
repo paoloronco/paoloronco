@@ -4,7 +4,7 @@
   </a>
 
   <h1>Paolo Ronco</h1>
-  <p><strong>Cyber Security Analyst @ Deloitte</strong></p>
+  <p><strong>Cybersecurity Analyst @ Deloitte</strong></p>
   <p>Cloud Security · AI · DevSecOps · Automation · Open Source</p>
 
   <p>
@@ -32,10 +32,10 @@ I'm particularly interested in the evolution of cybersecurity, DevSecOps, and ar
 | **[NextPrep Academy](https://nextprep.academy)** | Structured and outcome-focused learning paths for Google Cloud and AI certifications. |
 | **[Tab Session Saver](https://tabsessionsaver.paoloronco.it)** | Chrome extension for saving, organizing and restoring browser sessions, with tab group support, automatic backups and optional cloud synchronization. |
 | **[paoloronco.it](https://paoloronco.it)** | Personal knowledge hub covering Cyber Security, Cloud, AI, homelab and technical projects. |
-| **[n8n Templates](https://github.com/paoloronco?tab=repositories)** | Collection of reusable n8n workflows for AI, API integrations, data processing, notifications and operational automation. |
-| Infra Agent | AI-powered infrastructure agent for SSH-based diagnostics, monitoring and controlled operations across Linux servers and Proxmox environments. |
-| AI RAG DocuQuery | Desktop RAG application for searching local documents using hybrid retrieval, embeddings, reranking, multiple LLM backends and source-grounded answers. |
-| Enclave | Offline Android password manager featuring encrypted local storage, biometric authentication and protected backups. |
+| **[n8n Templates](https://github.com/paoloronco/n8n-templates)** | Collection of reusable n8n workflows for AI, API integrations, data processing, notifications and operational automation. |
+| **[Infra Agent](https://github.com/paoloronco/infra-agent)** | AI-powered infrastructure agent for SSH-based diagnostics, monitoring and controlled operations across Linux servers and Proxmox environments. |
+| **[AI RAG DocuQuery](https://github.com/paoloronco/AI-RAG-docuquery-app)** | Desktop RAG application for searching local documents using hybrid retrieval, embeddings, reranking, multiple LLM backends and source-grounded answers. |
+| **[Enclave](https://github.com/paoloronco/enclave)** | Offline Android password manager featuring encrypted local storage, biometric authentication and protected backups. |
 
 
 
@@ -47,7 +47,7 @@ SIEM · CSPM · EDR/XDR · Security Assessments · Vulnerability Management · S
 **Cloud & infrastructure**  
 Google Cloud · AWS · Azure · Oracle Cloud · Linux · Proxmox · Docker · Cloudflare · Vercel · Networking
 
-**Development & automation**  
+**Development & DevOps**  
 Git · GitHub Actions · CI/CD · JavaScript · TypeScript · Node.js · React · Bash · REST APIs · Supabase
 
 **Automation & Integration**  
