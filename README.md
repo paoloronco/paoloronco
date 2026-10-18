@@ -16,16 +16,11 @@
 
 ## About me
 
-I work in **Enterprise Cloud & AI Security**, with a focus on practical security, cloud platforms and automation.
+I'm a *Cybersecurity Analyst* at Deloitte, with experience in enterprise environments spanning Security Operations, SIEM technologies, security assessments, and the evaluation of security controls.
 
-Outside my professional role, I build and maintain SaaS products, browser extensions, cloud-native applications, AI-assisted workflows and a self-hosted homelab used for experimentation, monitoring and disaster-recovery testing.
+Alongside my professional work, I develop and maintain independent projects involving cloud computing, Linux, networking, virtualization, software development, and automation. These projects allow me to explore different technologies, build practical solutions, and continuously expand my technical skills.
 
-My main interests include:
-
-- Cloud Security and DevSecOps across Google Cloud, AWS and hybrid environments;
-- AI Security, RAG systems, LLM workflows and security automation;
-- Zero Trust, vulnerability management, SIEM and cloud-native security controls;
-- Docker, Linux, Proxmox, GitHub Actions, n8n and resilient infrastructure.
+I'm particularly interested in the evolution of cybersecurity, DevSecOps, and artificial intelligence, with a focus on their practical applications, system integrations, and real-world use cases.
 
 ## Featured projects
 
