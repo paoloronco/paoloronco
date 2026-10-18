@@ -22,59 +22,69 @@ Alongside my professional work, I develop and maintain independent projects invo
 
 I'm particularly interested in the evolution of cybersecurity, DevSecOps, and artificial intelligence, with a focus on their practical applications, system integrations, and real-world use cases.
 
+
+
 ## Featured projects
 
 | Project | Description |
 |---|---|
-| **[OrbitPage](https://orbitpage.com)** | Platform for creating, customizing and publishing complete single-page digital presences through a visual block editor. |
+| **[OrbitPage](https://orbitpage.com)** | SaaS and open-source platform for creating and managing digital pages, with REST APIs, MCP integration, AI-powered workflows and self-hosted deployment. |
 | **[NextPrep Academy](https://nextprep.academy)** | Structured and outcome-focused learning paths for Google Cloud and AI certifications. |
-| **[Tab Session Saver](https://tabsessionsaver.paoloronco.it)** | Browser extension for saving, organizing and restoring complex browsing sessions. |
+| **[Tab Session Saver](https://tabsessionsaver.paoloronco.it)** | Chrome extension for saving, organizing and restoring browser sessions, with tab group support, automatic backups and optional cloud synchronization. |
 | **[paoloronco.it](https://paoloronco.it)** | Personal knowledge hub covering Cyber Security, Cloud, AI, homelab and technical projects. |
-| **[n8n Templates](https://github.com/paoloronco?tab=repositories)** | Practical automations for content, backups, AI workflows, notifications and cloud operations. |
+| **[n8n Templates](https://github.com/paoloronco?tab=repositories)** | Collection of reusable n8n workflows for AI, API integrations, data processing, notifications and operational automation. |
+| Infra Agent | AI-powered infrastructure agent for SSH-based diagnostics, monitoring and controlled operations across Linux servers and Proxmox environments. |
+| AI RAG DocuQuery | Desktop RAG application for searching local documents using hybrid retrieval, embeddings, reranking, multiple LLM backends and source-grounded answers. |
+| Enclave | Offline Android password manager featuring encrypted local storage, biometric authentication and protected backups. |
 
-## Currently building
 
-- **OrbitPage** — product, editor, publishing workflows and lead-generation automation.
-- **NextPrep Academy** — Google Cloud certification content and learning experience.
-- **AI and RAG workflows** — retrieval, reranking, automation and practical knowledge assistants.
-- **Homelab and disaster recovery** — Proxmox, Docker, Cloudflare, Google Cloud, Oracle Cloud and off-site backups.
 
 ## Core toolkit
 
 **Security**  
-Wiz · Splunk · Google Security Command Center · Cloudflare Zero Trust · Wazuh · CrowdStrike · SentinelOne · NetWitness
+SIEM · CSPM · EDR/XDR · Security Assessments · Vulnerability Management · Splunk · NetWitness · Wiz · Wazuh · CrowdStrike · Cloudflare Zero Trust
 
 **Cloud & infrastructure**  
-Google Cloud · AWS · Proxmox · Docker · Linux · Ubuntu · Cloudflare · Vercel · Oracle Cloud
+Google Cloud · AWS · Azure · Oracle Cloud · Linux · Proxmox · Docker · Cloudflare · Vercel · Networking
 
 **Development & automation**  
-GitHub Actions · n8n · Node.js · TypeScript · JavaScript · React · Bash · WordPress · Supabase
+Git · GitHub Actions · CI/CD · JavaScript · TypeScript · Node.js · React · Bash · REST APIs · Supabase
 
-**AI**  
-RAG · Qdrant · MongoDB Atlas · OpenAI · Gemini · Cohere · Voyage AI · local LLM experimentation
+**Automation & Integration**  
+n8n · Make · Zapier · Webhooks · API Integrations · Workflow Orchestration · MCP
+
+**AI & Agentic Systems**  
+OpenAI · Gemini · Codex · Hermes AI · Ollama · LM Studio · RAG · Qdrant · Promptfoo · Local LLMs · AI Agents
+
+
 
 ## Certifications & training
 
-### Google Cloud
+**Cybersecurity**
 
-- Associate Cloud Engineer
-- Generative AI Leader
-- Digital Leader
-
-### Cyber Security
-
-- CompTIA Security+**
-- Google Cybersecurity Professional Certificate
+- CompTIA Security+
 - Splunk Core Certified User
-- Cisco Networking Academy
-- EC-Council Ethical Hacking Essentials
+- EC-Council Ethical Hacking Essentials (EHE)
+- Google Cybersecurity Professional Certificate
 
-### AI, Cloud & IT
+**Cloud & Artificial Intelligence**
 
+- Google Cloud Associate Cloud Engineer
+- Google Cloud Generative AI Leader
+- Google Cloud Digital Leader
 - CompTIA AI Essentials
-- AWS Cloud Essentials
-- Google IT Support Professional Certificate
-- Intel Network Academy
+- AWS Knowledge: Cloud Essentials
+
+**Additional Training**
+
+- Cisco Networking Academy — Introduction to Cybersecurity
+- Cisco Networking Academy — NDG Linux Unhatched
+- Cisco Networking Academy — Get Connected
+- Google IT Support — Technical Support Fundamentals
+- IBM — Introduction to Hardware and Operating Systems
+- Intel Network Academy — Network Transformation 101
+
+
 
 ## GitHub activity
 
